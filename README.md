@@ -607,8 +607,10 @@ This GitHub repository is **documentation-oriented** and is intended for capston
   - This document (overview, literature context, methods, results, and my contributions).
 - `ERM_ishowcase_poster.pdf`  
   - 4′×4′ iShowcase poster summarizing the project for a general audience.
-- `Capstone_Project_Pitch` 
+- `Capstone_Project_Pitch.pdf` 
   - Initial Project Pitch document at start of Capstone.
+- `Capstone_Report.pdf` 
+  - Capstone work report.
 - `images/*`  
   - Representative images from the project
 
