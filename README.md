@@ -32,7 +32,7 @@ The work simultaneously:
 - Contributes to an ongoing research stream in **computational ophthalmology** within the VSI Lab.
 
 <div align="left">
-  <img src="images/workflow.png" width="30%" alt="ERM surgical workflow">
+  <img src="images/workflow.png" width="60%" alt="ERM surgical workflow">
 </div>
 
 **End-to-end ERM surgical segmentation workflow: from raw videos through preprocessing, annotation, model training, and evaluation.**
@@ -500,7 +500,7 @@ The evaluation script reports:
 The repository is designed to include a small set of representative figures.
 
 
-<img src="images/Peeling_1.jpg" width="60%" alt="Intraoperative frame showing forceps initiating an ERM peel.">
+<img src="images/Peeling_1.jpg" width="80%" alt="Intraoperative frame showing forceps initiating an ERM peel.">
 
 **Intraoperative frame showing forceps initiating an ERM peel.**
 
